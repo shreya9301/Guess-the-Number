@@ -6,5 +6,6 @@ The <b>model.py</b> consists of the neural network and <b>drawNumber.py</b> file
   Pygame<br>
   TKinter<br>
   Tensorflow<br>
+  Keras<br>
   NumPy<br>
   Matplotlib<br>
